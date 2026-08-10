@@ -97,7 +97,7 @@ The screenshots below show the successful interaction and the flag.
 ## Flag
 
 ```text
-THM{PASTE_THE_FLAG_HERE}
+THM{v3r4_kn0ws_t00_much!}
 ```
 
 ---
